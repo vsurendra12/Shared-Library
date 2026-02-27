@@ -1,6 +1,4 @@
 
-import com.i27acadamy.builds.calculator
-
 def call(Map pipelineparams) {
     pipeline {
     agent {
